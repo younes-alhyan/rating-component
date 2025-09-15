@@ -1,4 +1,4 @@
-# 📁 Rating Component
+# 📂 Rating Component
 
 ![Hero Image](https://res.cloudinary.com/dz209s6jk/image/upload/v1715958936/Challenges/h3hhqtj4muiy84kkawhd.jpg)
 

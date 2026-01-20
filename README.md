@@ -16,11 +16,11 @@ This is a small project to practice handling user interactions and updating the 
 
 ## 🚀 Live Demo
 
-[View Demo](https://younes-alhyan.github.io/rating-component)
+[View Demo](https://younes-alhyan-frontend-mentor.github.io/rating-component)
 
 ## 🔎 More
 
-[GitHub Repository](https://github.com/younes-alhyan/frontend-mentor/)
+[GitHub Repository](https://github.com/younes-alhyan-frontend-mentor/frontend-mentor/)
 
 ## 🛠️ Tech Stack
 
@@ -34,8 +34,8 @@ This is a small project to practice handling user interactions and updating the 
 
 ## 🏅 Level
 
-![gold star](https://younes-alhyan.github.io/frontend-mentor/assets/star-filled.svg)
-![empty star](https://younes-alhyan.github.io/frontend-mentor/assets/star-outline.svg)
-![empty star](https://younes-alhyan.github.io/frontend-mentor/assets/star-outline.svg)
-![empty star](https://younes-alhyan.github.io/frontend-mentor/assets/star-outline.svg)
-![empty star](https://younes-alhyan.github.io/frontend-mentor/assets/star-outline.svg)
+![gold star](https://younes-alhyan-frontend-mentor.github.io/frontend-mentor/assets/star-filled.svg)
+![empty star](https://younes-alhyan-frontend-mentor.github.io/frontend-mentor/assets/star-outline.svg)
+![empty star](https://younes-alhyan-frontend-mentor.github.io/frontend-mentor/assets/star-outline.svg)
+![empty star](https://younes-alhyan-frontend-mentor.github.io/frontend-mentor/assets/star-outline.svg)
+![empty star](https://younes-alhyan-frontend-mentor.github.io/frontend-mentor/assets/star-outline.svg)
